@@ -1,4 +1,5 @@
 <img width="1440" alt="Screenshot 2024-02-29 at 08 42 51" src="https://github.com/HesamFarjad/drum-kit/assets/81914229/6a62d604-5e76-4083-a1b9-c9de89da5d99">
+<img width="762" alt="Screenshot 2024-02-29 at 08 46 13" src="https://github.com/HesamFarjad/drum-kit/assets/81914229/674c3d2b-ccf2-42d9-bedf-6bf5fb48cce5">
 
 This code is for a drum kit website that allows users to play drum sounds either by clicking on buttons or by pressing corresponding keys on the keyboard. Here's a breakdown of how it works:
 
